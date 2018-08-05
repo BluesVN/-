@@ -1,15 +1,20 @@
 <template>
-<detail-header></detail-header>
+<div>
+  <detail-header></detail-header>
+  <detail-left></detail-left>
+</div>
 </template>
 <script>
 
 import DetailHeader from './components/Header'
+import DetailLeft from './components/DetailLeft'
 
 // import axios from 'axios'
 export default {
   name: 'JobDetail',
   components: {
-    DetailHeader
+    DetailHeader,
+    DetailLeft
   },
   data () {
     return {

@@ -24,13 +24,14 @@ export default {
   display flex
   height 1rem
   margin-top .15rem
-  padding-left 15%
+  margin-bottom .25rem
   background-color #404040
   justify-content: start;
   align-items: center;
   color #fff
   .img-block
     display inline-block
+    margin-left $leftOffset
     background-color $logoColor
     min-width 2rem
     height 1.3rem
