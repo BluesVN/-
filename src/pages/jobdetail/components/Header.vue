@@ -47,7 +47,7 @@ export default {
     line-height: 1rem;
     font-size: 0.18rem;
     overflow: hidden;
-    right: 5%;
+    right: $leftOffset
   .header-right span
     margin-left .5rem
   .ask

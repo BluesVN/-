@@ -20,7 +20,7 @@ export default {
   .detail-left
     xbackground-color red
     margin-left  $leftOffset
-    width 1.5rem
+    min-width 1.5rem
     .city
       padding .18rem 0
     .city button
