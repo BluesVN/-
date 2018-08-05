@@ -7,6 +7,7 @@ import 'babel-polyfill'
 
 import 'styles/reset.css'
 import 'styles/border.css'
+import 'styles/iconfont.css'
 
 import 'swiper/dist/css/swiper.css'
 Vue.config.productionTip = false

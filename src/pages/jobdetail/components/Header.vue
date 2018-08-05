@@ -49,7 +49,7 @@ export default {
     overflow: hidden;
     right: $leftOffset
   .header-right span
-    margin-left .5rem
+    margin-left .7rem
   .ask
     padding .1rem
 </style>

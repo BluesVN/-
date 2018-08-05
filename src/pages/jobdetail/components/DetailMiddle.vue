@@ -12,11 +12,11 @@
         <div class="li-middle">
           <h3>首席财务官CFO</h3>
           <span class="middle-text">三年平均薪资</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
         <div class="li-right">
           <span class="right-text">需求量(人)</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
       </li>
       <li class="li border-bottom">
@@ -24,11 +24,11 @@
         <div class="li-middle">
           <h3>首席财务官CFO</h3>
           <span class="middle-text">三年平均薪资</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
         <div class="li-right">
           <span class="right-text">需求量(人)</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
       </li>
       <li class="li border-bottom">
@@ -36,11 +36,11 @@
         <div class="li-middle">
           <h3>首席财务官CFO</h3>
           <span class="middle-text">三年平均薪资</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
         <div class="li-right">
           <span class="right-text">需求量(人)</span>
-          <span class="text-s">一线10000 <span class="vs">VS</span>本地10000</span>
+          <span class="text-s">一线10000<span class="vs">VS</span>本地10000</span>
         </div>
       </li>
     </ul>
