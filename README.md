@@ -1,4 +1,4 @@
-# zhiyinguan
+# a vue case
 
 > A Vue.js project
 
